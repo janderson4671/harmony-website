@@ -37,6 +37,12 @@
             {/if}
         {/each}
     </div>
+    <div>
+        {#if details.location !== ""}
+            <h2>Location</h2>
+            <h2 id="location">{details.location}</h2>
+        {/if}
+    </div>
     <div id="scripture_links">
         <h2>Links to the New Testament</h2>
         {#each details.scriptureLinks as {title, link}}
@@ -93,6 +99,12 @@
         padding: 5px;
         margin: 5px;
         font-size: large;
+    }
+
+    #location {
+        background-color: rgb(183, 183, 255);
+        padding: 5px;
+        margin: 5px;
     }
 
     #scripture_links {
