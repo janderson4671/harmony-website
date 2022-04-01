@@ -327,7 +327,7 @@ export const data = [
                 "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/5.1-11?lang=eng#p1"
             }
         ],
-        "images" : []
+        "images" : ["https://assets.ldscdn.org/70/4c/704c79407561554ac3de25a17250ac41a7c1fd02/calling_the_fishermen.jpeg"]
     },
     {
         "id" : 18,
@@ -676,7 +676,7 @@ export const data = [
                 "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/8.4-8,11-15?lang=eng#p4"
             }
         ],
-        "images" : []
+        "images" : ["https://assets.ldscdn.org/47/42/474269eb699907e5543f98d85acdc7e95920c526/the_sower_george_soper.jpeg"]
     },
     {
         "id" : 34,
@@ -981,7 +981,7 @@ export const data = [
                 "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/john/6.5-14?lang=eng#p5"
             }
         ],
-        "images" : []
+        "images" : ["https://assets.ldscdn.org/52/c5/52c5c0c03a8e8738ecf17c82700bede042d9b0cd/miracle_loaves_fishes_james_tissot.jpeg"]
     },
     {
         "id" : 48,
@@ -1146,7 +1146,7 @@ export const data = [
                 "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/12.35-36?lang=eng#p35"
             },
         ],
-        "images" : []
+        "images" : ["https://assets.ldscdn.org/74/6c/746cbded521cb70b4fa285c3705488bbb5ad74af/ten_virgins_parable.jpeg"]
     },
     {
         "id" : 56,
@@ -1324,6 +1324,186 @@ export const data = [
             {
                 "title" : "John 18:24, 28",
                 "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/john/18.24,28?lang=eng#p24"
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 63,
+        "eventTitle" : "Hearing before Pilate",
+        "location" : "Jerusalem",
+        "tags" : [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Matthew 27:2, 11-14",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27.2,11-14?lang=eng#p2"
+            },
+            {
+                "title" : "Mark 15:1-5",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/15.1-5?lang=eng#p1"
+            },
+            {
+                "title" : "Luke 23:1-6",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23.1-6?lang=eng#p1"
+            },
+            {
+                "title" : "John 18:28-38",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/john/18.28-38?lang=eng#p28"
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 64,
+        "eventTitle" : "The Crucifixion",
+        "location" : "Golgatha",
+        "tags" : [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Matthew 27:35-44",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27.35-44?lang=eng#p35"
+            },
+            {
+                "title" : "Mark 15:24-33",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/15.24-33?lang=eng#p24"
+            },
+            {
+                "title" : "Luke 23:32-43",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23.32-43?lang=eng#p32"
+            },
+            {
+                "title" : "John 19:18-22",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/john/19.18-22?lang=eng#p18"
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 65,
+        "eventTitle" : "Death of Jesus Christ",
+        "location" : "Golgatha",
+        "tags" : [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Matthew 27:46-50",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27.46-50?lang=eng#p46"
+            },
+            {
+                "title" : "Mark 15:37",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/15.37?lang=eng#p37"
+            },
+            {
+                "title" : "Luke 23:46",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23.46?lang=eng#p46"
+            },
+            {
+                "title" : "John 19:28-30",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/john/19.28-30?lang=eng#p28"
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 66,
+        "eventTitle" : "Women find the open tomb",
+        "location" : "Near Jerusalem",
+        "tags" : [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Matthew 28:1",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28.1?lang=eng#p1"
+            },
+            {
+                "title" : "Mark 16:1-4",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16.1-4?lang=eng#p1"
+            },
+            {
+                "title" : "Luke 24:1-2",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24.1-2?lang=eng#p1"
+            },
+            {
+                "title" : "John 20:1-2",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/john/20.1-2?lang=eng#p1"
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 67,
+        "eventTitle" : "Jesus appears to two disciples",
+        "location" : "Emmaus",
+        "tags" : [
+            "Mark",
+            "Luke"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Mark 16:12-13",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16.12-13?lang=eng#p12"
+            },
+            {
+                "title" : "Luke 24:13-35",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24.13-35?lang=eng#p13"
+            }
+        ],
+        "images" : ["https://assets.ldscdn.org/0b/4a/0b4a145bd21844291c4176bfffa86d3a73c23074/apostles_lord_jesus_art_lds.jpeg"]
+    },
+    {
+        "id" : 68,
+        "eventTitle" : "The great commission to the Twelve",
+        "location" : "Galilee",
+        "tags" : [
+            "Matthew",
+            "Mark"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Matthew 28:16-20",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28.16-20?lang=eng#p16"
+            },
+            {
+                "title" : "Mark 16:15-18",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16.15-18?lang=eng#p15"
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 69,
+        "eventTitle" : "Ascension, proclamation",
+        "location" : "Near Jerusalem",
+        "tags" : [
+            "Mark",
+            "Luke"
+        ],
+        "scriptureLinks" : [
+            {
+                "title" : "Mark 16:19-20",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16.19-20?lang=eng#p19"
+            },
+            {
+                "title" : "Luke 24:50-53",
+                "link" : "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24.50-53?lang=eng#p50"
             }
         ],
         "images" : []

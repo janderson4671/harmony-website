@@ -49,6 +49,15 @@
             <a href={link} target="_blank">{title}</a>
         {/each}
     </div>
+    <div>
+        {#if details.images.length != 0}
+            <h2>Images</h2>
+            {#each details.images as image}
+                <!-- svelte-ignore a11y-img-redundant-alt -->
+                <img src="{image}" alt="Picture">
+            {/each}
+        {/if}
+    </div>
 </div>
 {/if}
 <style>
@@ -106,11 +115,15 @@
         padding: 5px;
         margin: 5px;
     }
-
     #scripture_links {
         display: flex;
         flex-direction: column;
         margin: 20px;
+    }
+
+    img {
+        max-width: 50%;
+        max-height: 50%;
     }
 
 </style>
